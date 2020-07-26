@@ -1,6 +1,6 @@
 // ARC Paperweight Code
 // Copyright 2020 by Sean J. Miller
-//Note to self:  alert should be red and blue like a cop!!!!
+
 #include <Ultrasonic.h>
 #include <ss_oled.h>
 #include <SPI.h>
